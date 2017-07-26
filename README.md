@@ -1,5 +1,5 @@
 # Nonlinear Systems and Control  
-Taught by Dr. John Hung, Auburn University  
+Taught by [Dr. John Hung](http://www.eng.auburn.edu/~jhung/), [Auburn University](http://eng.auburn.edu/ece/index.html) 
 Last updated: Wednesday July 26, 2017  
 
 ## Projects
