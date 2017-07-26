@@ -1,6 +1,6 @@
-# Nonlinear Systems and Control
-Taught by Dr. John Hung, Auburn University
-Last updated: Wednesday July 26, 2017
+# Nonlinear Systems and Control  
+Taught by Dr. John Hung, Auburn University  
+Last updated: Wednesday July 26, 2017  
 
 ## Projects
 1. [Classical Phase Plane Analysis](docs/proj1.pdf)
